@@ -1,7 +1,7 @@
 # Datalogi og Økonomi || Computer Science and Economics
-Databases and Information Systems (DIS)
+[Databases and Information Systems](https://github.com/tdh424/DIS) [(DIS)](https://kurser.ku.dk/course/ndab19002u/2021-2022)
 
-Mikro B
+Microeconomics B (Mikro B)
 
 Algorithms and Datastructures (AD)
 
