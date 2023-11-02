@@ -5,27 +5,27 @@ Microeconomics B (Mikro B)
 
 Algorithms and Datastructures (AD)
 
-Econometrics B
+Econometrics B (Eco B)
 
-Macroeconomics A
+Macroeconomics A (Macro A)
 
 High Performance Programming and Systems (HPPS)
 
-Econometrics A
+Econometrics A (Eco A)
 
-Numerical Methods
+Numerical Methods (NM)
 
-Linear Algebra
+Linear Algebra (LinAlg)
 
-Micro Economics A
+Microeconomics A (Micro A)
 
 Discrete Mathematics and Formel Languages (DMFS)
 
 Fundamental of Statistics and Probabilities (GSS)
 
-Introduction to Economics
+Introduction to Economics (ØkIntro)
 
-Programming and Problem Solving
+Programming and Problem Solving (PoP)
 
 # McMaster Universiy, Fall/Winter 2023
 Introduction to Machine Learning (4ML3)
