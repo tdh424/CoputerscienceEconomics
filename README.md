@@ -1,2 +1,1 @@
-# McMaster Universiy, Fall/Winter 2023
-Introduction to Machine Learning (4ML3)
+# Introduction to Machine Learning [(4ML3)](https://experts.mcmaster.ca/display/award-introduction-to-machine-learning-compsci-4ml3)
