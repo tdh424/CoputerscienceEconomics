@@ -28,7 +28,7 @@ Introduction to Economics (ØkIntro)
 Programming and Problem Solving (PoP)
 
 # McMaster Universiy, Fall/Winter 2023
-Introduction to Machine Learning (4ML3)
+[Introduction to Machine Learning](https://github.com/tdh424/CoputerscienceEconomics/tree/Introduction-to-Machine-Learning) [(4ML3)](https://experts.mcmaster.ca/display/award-introduction-to-machine-learning-compsci-4ml3)
 
 Introduction to Finance (2FA3)
 
