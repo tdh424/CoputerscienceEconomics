@@ -32,6 +32,6 @@ Programming and Problem Solving (PoP)
 
 Introduction to Finance (2FA3)
 
-Introduction to Software Development (2ME3)
+[Introduction to Software Development](https://github.com/tdh424/CoputerscienceEconomics/tree/Introduction-to-Software-Development) [(2ME3)](https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=53&coid=265615)
 
 C++ Programming (1CP3)
