@@ -1,7 +1,7 @@
 # Datalogi og Økonomi (DatØk) || Computer Science and Economics
 [Databases and Information Systems](https://github.com/tdh424/DIS) [(DIS)](https://kurser.ku.dk/course/ndab19002u/2021-2022)
 
-Microeconomics B (Mikro B)
+[Microeconomics B](https://github.com/tdh424/CoputerscienceEconomics/tree/Microeconomics-B) [(Mikro B)](https://kurser.ku.dk/course/ndab20009u)
 
 Algorithms and Datastructures (AD)
 
