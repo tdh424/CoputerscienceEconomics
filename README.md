@@ -4,7 +4,5 @@
 
 Hjemmeopgave 1 / Home assignment 1 - Nash Equlibrium
 
-Code: [Cars](https://github.com/tdh424/CoputerscienceEconomics/blob/Microeconomics-B/cars.ipynb) [Hearthstone](https://github.com/tdh424/CoputerscienceEconomics/blob/Microeconomics-B/hearthstone.ipynb) [Penalty](https://github.com/tdh424/CoputerscienceEconomics/blob/Microeconomics-B/penalty.ipynb) 
-
 [.PDF](https://github.com/tdh424/CoputerscienceEconomics/blob/Microeconomics-B/Hjemmeopgave_1.pdf)
-
+ Code: [Cars](https://github.com/tdh424/CoputerscienceEconomics/blob/Microeconomics-B/cars.ipynb) [Hearthstone](https://github.com/tdh424/CoputerscienceEconomics/blob/Microeconomics-B/hearthstone.ipynb) [Penalty](https://github.com/tdh424/CoputerscienceEconomics/blob/Microeconomics-B/penalty.ipynb)
