@@ -13,7 +13,7 @@ High Performance Programming and Systems (HPPS)
 
 Econometrics A (Eco A)
 
-Numerical Methods (NM)
+Numerical Methods (NuMe)
 
 Linear Algebra (LinAlg)
 
