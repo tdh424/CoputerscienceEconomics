@@ -6,3 +6,7 @@ Hjemmeopgave 1 / Home assignment 1 - Nash Equlibrium
 
 [.PDF](https://github.com/tdh424/CoputerscienceEconomics/blob/Microeconomics-B/Hjemmeopgave_1.pdf)
  Code: [Cars](https://github.com/tdh424/CoputerscienceEconomics/blob/Microeconomics-B/cars.ipynb) [Hearthstone](https://github.com/tdh424/CoputerscienceEconomics/blob/Microeconomics-B/hearthstone.ipynb) [Penalty](https://github.com/tdh424/CoputerscienceEconomics/blob/Microeconomics-B/penalty.ipynb)
+
+ Hjemmeopgave 2 / Home assignment 2 - Equlibrium, cartels and Hypothises tests
+
+ [.PDF]() (With lecturers notes)
