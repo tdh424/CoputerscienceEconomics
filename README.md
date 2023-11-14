@@ -34,4 +34,4 @@ Introduction to Finance [(2FA3)](https://ug.degroote.mcmaster.ca/descriptions/2f
 
 [Introduction to Software Development](https://github.com/tdh424/CoputerscienceEconomics/tree/Introduction-to-Software-Development) [(2ME3)](https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=53&coid=265615)
 
-C++ Programming [(1CP3)](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.eng.mcmaster.ca/sites/default/files/engtech_1cp3_-_summer_2022.pdf)
+C++ Programming [(1CP3)](https://www.eng.mcmaster.ca/sites/default/files/engtech_1cp3_-_summer_2022.pdf)
