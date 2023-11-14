@@ -3,29 +3,29 @@
 
 [Microeconomics B](https://github.com/tdh424/CoputerscienceEconomics/tree/Microeconomics-B) [(Mikro B)](https://kurser.ku.dk/course/ndab20009u)
 
-[Algorithms and Datastructures]() [(AD)](https://kurser.ku.dk/course/NDAA04010U)
+[Algorithms and Datastructures](https://github.com/tdh424/CoputerscienceEconomics/tree/Algorithms-and-Data-structures) [(AD)](https://kurser.ku.dk/course/NDAA04010U)
 
-[Econometrics B]() [(Eco B)](https://kurser.ku.dk/course/ndab20006u)
+[Econometrics B](https://github.com/tdh424/CoputerscienceEconomics/tree/Econometrics-B) [(Eco B)](https://kurser.ku.dk/course/ndab20006u)
 
-[]()Macroeconomics A [(Macro A)](https://kurser.ku.dk/course/ndab20007u)
+[Macroeconomics A](https://github.com/tdh424/CoputerscienceEconomics/tree/Macroeconomics-A) [(Macro A)](https://kurser.ku.dk/course/ndab20007u)
 
-[]()High Performance Programming and Systems [(HPPS)](https://kurser.ku.dk/course/ndab20001u)
+[High Performance Programming and Systems]() [(HPPS)](https://kurser.ku.dk/course/ndab20001u)
 
-[]()Econometrics A [(Eco A)](https://kurser.ku.dk/course/ndab20005u)
+[Econometrics A](https://github.com/tdh424/CoputerscienceEconomics/tree/Econometrics-A) [(Eco A)](https://kurser.ku.dk/course/ndab20005u)
 
-[]()Numerical Methods [(NuMe)](https://kurser.ku.dk/course/ndab22009u)
+[Numerical Methods](https://github.com/tdh424/CoputerscienceEconomics/tree/Numerical-Methods) [(NuMe)](https://kurser.ku.dk/course/ndab22009u)
 
-[]()Linear Algebra [(LinAlgDat)](https://kurser.ku.dk/course/nmab15002u)
+[Linear Algebra](https://github.com/tdh424/CoputerscienceEconomics/tree/Linear-Algebra) [(LinAlgDat)](https://kurser.ku.dk/course/nmab15002u)
 
-[]()Microeconomics A [(Micro A)](https://kurser.ku.dk/course/ndab19004u)
+[Microeconomics A](https://github.com/tdh424/CoputerscienceEconomics/tree/MicroEconomics-A) [(Micro A)](https://kurser.ku.dk/course/ndab19004u)
 
-[]()Discrete Mathematics and Formel Languages [(DMFS)](https://kurser.ku.dk/course/ndab19002u/2021-2022)
+[Discrete Mathematics and Formel Languages](https://github.com/tdh424/CoputerscienceEconomics/tree/Discrete-Mathematics-and-Formel-Languages) [(DMFS)](https://kurser.ku.dk/course/ndab19002u/2021-2022)
 
-[]()Fundamental of Statistics and Probabilities [(GSS)](https://kurser.ku.dk/course/ndab19003u)
+[Fundamental of Statistics and Probabilities](https://github.com/tdh424/CoputerscienceEconomics/tree/Fundamental-Statistics-and-Probabilities) [(GSS)](https://kurser.ku.dk/course/ndab19003u)
 
-[]()Introduction to Economics [(ØkIntro)](https://kurser.ku.dk/course/nmaa04032u)
+[Introduction to Economics](https://github.com/tdh424/CoputerscienceEconomics/tree/Introduction-to-Economics) [(ØkIntro)](https://kurser.ku.dk/course/nmaa04032u)
 
-[]()Programming and Problem Solving [(PoP)](https://kurser.ku.dk/course/ndab15009u)
+[Programming and Problem Solving](https://github.com/tdh424/CoputerscienceEconomics/tree/Programming-and-Problem-Solving) [(PoP)](https://kurser.ku.dk/course/ndab15009u)
 
 # McMaster Universiy, Fall/Winter 2023
 [Introduction to Machine Learning](https://github.com/tdh424/CoputerscienceEconomics/tree/Introduction-to-Machine-Learning) [(4ML3)](https://experts.mcmaster.ca/display/award-introduction-to-machine-learning-compsci-4ml3)
