@@ -27,7 +27,7 @@
 
 [Programming and Problem Solving](https://github.com/tdh424/CoputerscienceEconomics/tree/Programming-and-Problem-Solving) [(PoP)](https://kurser.ku.dk/course/ndab15009u)
 
-# McMaster Universiy, Fall/Winter 2023
+# McMaster University, Fall/Winter 2023
 [Introduction to Machine Learning](https://github.com/tdh424/CoputerscienceEconomics/tree/Introduction-to-Machine-Learning) [(4ML3)](https://experts.mcmaster.ca/display/award-introduction-to-machine-learning-compsci-4ml3) (UPLOADED DOCUMENTS)
 
 Introduction to Finance [(2FA3)](https://ug.degroote.mcmaster.ca/descriptions/2fa3/)
