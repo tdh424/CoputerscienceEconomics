@@ -5,7 +5,7 @@
 
 [Algorithms and Datastructures](https://github.com/tdh424/CoputerscienceEconomics/tree/Algorithms-and-Data-structures) [(AD)](https://kurser.ku.dk/course/NDAA04010U)
 
-[Econometrics B](https://github.com/tdh424/CoputerscienceEconomics/tree/Econometrics-B) [(Eco B)](https://kurser.ku.dk/course/ndab20006u)
+[Econometrics B](https://github.com/tdh424/CoputerscienceEconomics/tree/Econometrics-B) [(Eco B)](https://kurser.ku.dk/course/ndab20006u) (UPLOADED DOCUMENTS)
 
 [Macroeconomics A](https://github.com/tdh424/CoputerscienceEconomics/tree/Macroeconomics-A) [(Macro A)](https://kurser.ku.dk/course/ndab20007u)
 
