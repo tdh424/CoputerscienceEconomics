@@ -30,7 +30,7 @@
 # McMaster University, Fall/Winter 2023
 [Introduction to Machine Learning](https://github.com/tdh424/CoputerscienceEconomics/tree/Introduction-to-Machine-Learning) [(4ML3)](https://experts.mcmaster.ca/display/award-introduction-to-machine-learning-compsci-4ml3) (UPLOADED DOCUMENTS)
 
-[Introduction to Finance](https://github.com/tdh424/CoputerscienceEconomics/tree/Introduction-to-Finance) [(2FA3)](https://ug.degroote.mcmaster.ca/descriptions/2fa3/)
+[Introduction to Finance](https://github.com/tdh424/CoputerscienceEconomics/tree/Introduction-to-Finance) [(2FA3)](https://ug.degroote.mcmaster.ca/descriptions/2fa3/)(UPLOADED DOCUMENTS)
 
 [Introduction to Software Development](https://github.com/tdh424/CoputerscienceEconomics/tree/Introduction-to-Software-Development) [(2ME3)](https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=53&coid=265615) (UPLOADED DOCUMENTS)
 
